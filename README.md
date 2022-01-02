@@ -9,3 +9,4 @@ We are predicting the attrition rate using traditional machine learning algorith
   
 We are buiding a machine learning model to predict the attrition rate among the employees which can help employers to learn and strategies the retention
 policies of thier organizations.
+ 
